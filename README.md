@@ -1,2 +1,2 @@
 # sky-take-out
-springboot-ssm-practice
+springboot-ssm practice
